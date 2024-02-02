@@ -1,0 +1,6 @@
+git clone (https://github.com/marfahdogar/Media-Queries.git)
+
+git status
+git add .
+git commit -m"command file created"
+git push origin main
